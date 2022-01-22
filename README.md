@@ -1,7 +1,7 @@
 <h1 align="center">I'm Elibabah!</h1>
 <h3 align="center">frontend developer</h3>
 
-[![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg "Header")](https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/)
+[![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg "Elibabah's World")](https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/" target="_blank" style="margin: 0 20px;">
@@ -17,7 +17,7 @@
 </p>
 
 ### 👉 About me
-Hello, world!
+Hello, world! I'm a developer frontend, linguist and father. 
 
 
 
