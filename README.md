@@ -1,10 +1,6 @@
 <h1 align="center">I'm Elibabah!</h1>
 <h3 align="center">frontend developer & linguist</h3>
 
-
-<!--<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg" alt="elibabah's world" width="80%" /></p>-->
-
-
 [![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg "Elibabah's World")](https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/)
 
 <p align="center">
@@ -20,14 +16,10 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17272838/hernández-morales-david-elías" height="20" width="20" /></a>
 </p>
 
-### Hello, World
-<h2 align="center">Hello, world</h2>
+<h3 align="center">Hello, world</h3>
 I'm a developer frontend, linguist and father. 
 
-
-
-### Languages and Tools:
-
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
@@ -49,8 +41,7 @@ I'm a developer frontend, linguist and father.
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="30" height="30"/> </a> 
 </p>
 
-
-### My GitHub Stats 📊
+<h3 align="center">My GitHub Stats 📊</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah&layout=compact&img_align="right")](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elibabah&count_private=true&locale=en&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=vue)
