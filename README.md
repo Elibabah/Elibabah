@@ -11,13 +11,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah" />
 </a>
-<!------>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elibabah&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elibabaha&repo=convoychat" />
-</a>
+<!-------------------------------->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=vue)
 <!--
 **Elibabah/Elibabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
