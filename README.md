@@ -20,6 +20,11 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17272838/hernández-morales-david-elías" height="28" width="28" /></a>
 </p>
 
+
+ <a href="https://github.com/Elibabah" target="_blank" class="btn-social"><i class="fab fa-github"></i></a>
+ <a href="https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/" target="_blank" class="btn-social"><i class="fab fa-linkedin"></i></a>
+
+
 ## 👉 About me
 
 
