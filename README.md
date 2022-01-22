@@ -1,5 +1,5 @@
 <h1 align="center">I'm Elibabah!</h1>
-<h3 align="center">frontend developer</h3>
+<h3 align="center">frontend developer & linguist</h3>
 
 
 <!--<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg" alt="elibabah's world" width="80%" /></p>-->
