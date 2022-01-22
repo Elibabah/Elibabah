@@ -21,6 +21,7 @@
 </p>
 
 ### Hello, World
+<h2 align="center">Hello, world</h2>
 I'm a developer frontend, linguist and father. 
 
 
