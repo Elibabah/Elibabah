@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elibabah)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
