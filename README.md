@@ -11,8 +11,13 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah" />
 </a>
-
-
+<!------>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <!--
 **Elibabah/Elibabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-- name: GitHub-Profile-Summary-Cards
-  uses: vn7n24fzkq/github-profile-summary-cards@v0.4.0-hotfix.3
+- <!--name: GitHub-Profile-Summary-Cards
+  uses: vn7n24fzkq/github-profile-summary-cards@v0.4.0-hotfix.3-->
 
