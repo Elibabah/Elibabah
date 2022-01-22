@@ -9,6 +9,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah" />
 </a>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=vue" />
+</a>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=vue)
 
