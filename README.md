@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=vue" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=vue" />
 </a>
 
 
