@@ -13,8 +13,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elibabah" height="20" width="20" /></a>
 <a href="https://codepen.io/elibabah" target="_blank"  style="margin: 0 20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elibabah" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users//users/17272838/hernández-morales-david-elías" target="_blank" style="margin: 0 20px;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17272838/hernández-morales-david-elías" height="20" width="20" /></a>
 </p>
 
 <h3 align="center">Hello, world</h3>
