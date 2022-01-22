@@ -20,14 +20,13 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17272838/hernández-morales-david-elías" height="20" width="20" /></a>
 </p>
 
-## 👉 About me
+### 👉 About me
 Hello, world!
 
 
 
-
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> 
+###Languages and Tools:
+<p align="center"> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30"/></a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
@@ -49,7 +48,7 @@ Hello, world!
 </p>
 
 
-## My GitHub Stats 📊
+### My GitHub Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elibabah&count_private=true&locale=en&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah&layout=compact&img_align="right")](https://github.com/anuraghazra/github-readme-stats)
