@@ -1,11 +1,9 @@
-<h1 align="center">Hello, world, I'm Elibabah!</h1>
-<h3 align="center">frontend developer</h3>
+<h1 align="center">Hello, world</h1>
+<h3 align="center">I'm a frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elibabah&label=Profile%20views&color=0e75b6&style=flat" alt="elibabah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elibabah" alt="elibabah" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@elasher59446451" target="blank"><img src="https://img.shields.io/twitter/follow/@elasher59446451?logo=twitter&style=for-the-badge" alt="@elasher59446451" /></a> </p>
 
 - 🔭 I’m currently working on **d**
 
@@ -20,8 +18,6 @@
 - 📝 I regularly write articles on [---](---)
 
 - 💬 Ask me about **react**
-
-- 📫 How to reach me **delias16.hernandez@gmail.com**
 
 - 📄 Know about my experiences [----](----)
 
@@ -45,7 +41,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elibabah&show_icons=true&locale=en" alt="elibabah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&" alt="elibabah" /></p>
 
 
 
@@ -59,6 +54,9 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=vue)
+
+
+![]("https://github-readme-streak-stats.herokuapp.com/?user=elibabah&")
 
 <!--
 **Elibabah/Elibabah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
