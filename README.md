@@ -4,35 +4,19 @@
 [![Header](https:///github-cover.jpg "Header")](https://www.linkedin.com/in/el%C3%ADas-hern%C3%A1ndez-elibabah-5b85b5100/)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/el%C3%ADas-hern%C3%A1ndez-elibabah-5b85b5100/" target=""blank" style="margin: 0 20px;">
-      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="linkedIn-Elibabah" height="28px" width="28px" />
-    </a>
-    <a href="https://medium.com/@elibabah" target=""blank" style="margin: 0 20px;">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium-Elibabah" height="28px" width="28px" />
-    </a>
-    <a href="https://twitter.com/ElasHer59446451" target=""blank" style="margin: 0 20px; >
-      <img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter-Elibabah" height="28px" width="28px" />
-    </a>
-     <a href="https://codepen.io/elibabah" target=""blank" style="margin: 0 20px;>
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen-Elibabah" height="28" width="28" />
-    </a>  
- </p>
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/" target="blank" style="margin: 0 20px;">
+<a href="https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/" target="blank" style="margin: 1 20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elibabah" height="28" width="28" /></a>
   
-<a href="https://twitter.com/@elasher59446451" target="blank" style="margin: 0 20px;">
+<a href="https://twitter.com/@elasher59446451" target="blank" style="margin: 1 20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@elasher59446451" height="28" width="28" /></a>
   
-<a href="https://medium.com/@elibabah" target="blank" style="margin: 0 20px;">
-  <img align="center" src="https://simpleicons.org/icons/medium.svg" alt="@elibabah" height="28" width="28" /></a>
+<a href="https://medium.com/@elibabah" target="blank" style="margin: 1 20px;">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elibabah" height="28" width="28" /></a>
   
-<a href="https://codepen.io/elibabah" target="blank"  style="margin: 0 20px;">
+<a href="https://codepen.io/elibabah" target="blank"  style="margin: 1 20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elibabah" height="28" width="28" /></a>
 
-<a href="https://stackoverflow.com/users//users/17272838/hernández-morales-david-elías" target="blank" style="margin: 0 20px;">
+<a href="https://stackoverflow.com/users//users/17272838/hernández-morales-david-elías" target="blank" style="margin: 1 20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17272838/hernández-morales-david-elías" height="28" width="28" /></a>
   
   
