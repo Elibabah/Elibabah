@@ -1,6 +1,35 @@
-<h1 align="center">Hello, world</h1>
-<h3 align="center">I'm Elibabah, a frontend developer</h3>
+<h1 align="center">I'm Elibabah!</h1>
+<h3 align="center">frontend developer</h3>
 
+[![Header](https:///github-cover.jpg "Header")](https://www.linkedin.com/in/el%C3%ADas-hern%C3%A1ndez-elibabah-5b85b5100/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/el%C3%ADas-hern%C3%A1ndez-elibabah-5b85b5100/" target="_blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="linkedIn-Elibabah" height="28px" width="28px" />
+    </a>
+    <a href="https://medium.com/@elibabah" target="_blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/medium.svg" alt="Medium-Elibabah" height="28px" width="28px" />
+    </a>
+    <a href="https://twitter.com/ElasHer59446451" target="_blank" style="margin: 0 20px; >
+      <img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter-Elibabah" height="28px" width="28px" />
+    </a>
+     <a href="https://codepen.io/elibabah" target="_blank" style="margin: 0 20px;>
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen-Elibabah" height="28" width="28" />
+    </a>                                                                                              
+</p>
+
+
+## 👉 About me
+Soy un **Desarrollador Fullstack** y **Profesor en la escuela [Trazos](https://trazos.net/contacto-eduardofierro)** centrado en microanimaciones tanto para páginas web como aplicaciones.
+Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/eduardofierropro)** y **trucos rápidos en [TikTok](http://tiktok.com/@eduardofierro.pro)**
+
+
+
+
+
+
+
+<!------------------------------->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elibabah&label=Profile%20views&color=0e75b6&style=flat" alt="elibabah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elibabah" alt="elibabah" /></a> </p>
