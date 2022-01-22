@@ -20,8 +20,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17272838/hernández-morales-david-elías" height="20" width="20" /></a>
 </p>
 
-### 👉 About me
-Hello, world! I'm a developer frontend, linguist and father. 
+### Hello, World
+I'm a developer frontend, linguist and father. 
 
 
 
