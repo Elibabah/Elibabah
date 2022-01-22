@@ -1,7 +1,8 @@
 <h1 align="center">I'm Elibabah!</h1>
 <h3 align="center">Frontend developer & linguist</h3>
 
-[![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg "Elibabah's World")](https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/)
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg" alt="elibabah's world" width="80%" /></p>
+<!--[![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg "Elibabah's World")](https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/)-->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/" target="_blank" style="margin: 0 20px;">
