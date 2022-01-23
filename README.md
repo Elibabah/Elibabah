@@ -19,7 +19,7 @@
 <h3 align="center">Hello, world</h3>
 I'm a developer frontend, linguist and father. I've interesting in data-science, artificial intelligence and natural language. So, I'm going to learn Python! I love literature, philosophy, math and physics. I believe in humanity and always remember this:
 
-> Nothing human is alien to me.
+> Nothing human is alien to me. — Publio
 
 
 
