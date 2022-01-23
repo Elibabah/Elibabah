@@ -1,4 +1,4 @@
-<h1 align="center">I'm Elibabah!</h1>
+<h1 align="center">Hi there! I'm Elibabah!</h1>
 <h3 align="center">Frontend developer & linguist</h3>
 
 ![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/three-worlds.jpg)
@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="center">Hello, world</h3>
-I'm a developer frontend, linguist and father. I've interesting in data-science, artificial intelligence and natural language. So, I'm going to learn Python! I love literature, philosophy, math and physics. I believe in humanity and always remember this:
+I'm a frontend developer, linguist and father. I've interesting in data-science, artificial intelligence and natural language. So, I'm going to learn Python! I love literature, philosophy, math and physics. I believe in humanity and always remember this:
 
 > Nothing human is alien to me. — Publio
 
