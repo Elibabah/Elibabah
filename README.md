@@ -17,14 +17,14 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elibabah" height="20" width="20" /></a>
 </p>
 
-<h3 align="center">Hello, world</h3>
+<h3 align="center">Hello, World</h3>
 I'm a frontend developer, linguist and father. I've interesting in data-science, artificial intelligence and natural language. So, I'm going to learn Python! I love literature, philosophy, math and physics. I believe in humanity and always remember this:
 
 > Nothing human is alien to me. — Publio
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages & Tools:</h3>
 <p align="center">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
