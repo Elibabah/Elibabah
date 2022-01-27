@@ -48,12 +48,11 @@ I'm a frontend developer, linguist and father. I've interesting in data-science,
 
 <h3 align="center">My GitHub Stats 📊</h3>
 
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah&layout=compact&img_align="right")](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elibabah&count_private=true&locale=en&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=monokai)
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&" alt="elibabah" /></p>
-</div>
+
 
 <!--
 - 🔭 I’m currently working on ...
