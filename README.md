@@ -1,7 +1,9 @@
 <h1 align="center">Hi there! I'm Elibabah!</h1>
 <h3 align="center">Frontend developer & linguist</h3>
 
-![Header](https://tenor.com/es/ver/coded-data-numbers-encryption-hack-gif-17648403)
+![Header](https://tenor.com/search/coded-gifs)
+
+
 ![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg)
 <!--![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/three-worlds.jpg)-->
 <!--<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg" alt="elibabah's world" width="80%" /></p>-->
