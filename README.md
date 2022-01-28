@@ -60,7 +60,7 @@ ___
 
 <!--![Elibabah's GitHub stats](https://github-readme-stats.vercel.app/api?username=elibabah&count_private=true&locale=en&show_icons=true&theme=radical)-->
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=elibabah&count_private=true&locale=en&show_icons=true&theme=dark" alt="commits-stats" width="55%"/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=elibabah&count_private=true&locale=en&show_icons=true&theme=radical" alt="commits-stats" width="55%"/></p>
 
 <p align="right"><img align="rigth" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/DetailedPotableBobolink-size_restricted.gif" alt="elibabah-binary" width="39%" /></p>
 
