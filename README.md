@@ -57,7 +57,7 @@ I'm a frontend developer, linguist and father. I've interesting in data-science,
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=monokai)-->
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=monokai" alt="elibabah's" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&" alt="elibabah" width="64%"/></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&" alt="elibabah" width="60%"/></p>
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=elibabah&)-->
 
