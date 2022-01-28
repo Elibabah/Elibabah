@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! I'm Elibabah!</h1>
 <h3 align="center">Frontend developer & linguist</h3>
 
-![Header](https://c.tenor.com/w2WYZuHWZw0AAAAC/coded-data.gif)
 
+<p align="center"><img align="center" src="https://c.tenor.com/w2WYZuHWZw0AAAAC/coded-data.gif" alt="elibabah's world" width="100%" height="70%" /></p>
 
 ![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg)
 <!--![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/three-worlds.jpg)-->
