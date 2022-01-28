@@ -15,11 +15,7 @@
 <a href="https://medium.com/@elibabah" target="_blank" style="margin: 0 20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elibabah" height="20" width="20" /></a>
 <a href="https://codepen.io/elibabah" target="_blank"  style="margin: 0 20px;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elibabah" height="20" width="20" /></a>   
-
-  ___   
-
-</p>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elibabah" height="20" width="20" /></a></p>
 
 <h3 align="center">Hello, World!</h3>
 I'm a frontend developer, linguist and father. I've interesting in data-science, artificial intelligence and natural language. So, I'm going to learn Python! I love literature, philosophy, math and physics. I believe in humanity and always remember this:
