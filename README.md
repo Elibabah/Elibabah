@@ -1,8 +1,7 @@
 <h1 align="center">Hi there! I'm Elibabah!</h1>
 <h3 align="center">Frontend developer & linguist</h3>
 
-<div class="tenor-gif-embed" data-postid="17648403" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/coded-data-numbers-encryption-hack-gif-17648403">Coded Data GIF</a>from <a href="https://tenor.com/search/coded-gifs">Coded GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![Header](https://tenor.com/es/ver/coded-data-numbers-encryption-hack-gif-17648403)
 ![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg)
 <!--![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/three-worlds.jpg)-->
 <!--<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg" alt="elibabah's world" width="80%" /></p>-->
