@@ -1,6 +1,4 @@
-<h1 align="center">Hi there! I'm Elibabah!</h1>
-<h3 align="center">Frontend developer & linguist</h3>
-
+<h2 align="center">Hi there! I'm Elibabah!</h2><h3 align="center">Frontend developer & linguist</h3>
 
 <!--<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/coded-data-cuted.gif" alt="elibabah's world" width="100%"/></p>-->
 
@@ -17,7 +15,10 @@
 <a href="https://medium.com/@elibabah" target="_blank" style="margin: 0 20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elibabah" height="20" width="20" /></a>
 <a href="https://codepen.io/elibabah" target="_blank"  style="margin: 0 20px;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elibabah" height="20" width="20" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elibabah" height="20" width="20" /></a>   
+
+  ___   
+
 </p>
 
 <h3 align="center">Hello, World!</h3>
