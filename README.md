@@ -65,7 +65,7 @@ I'm a frontend developer, linguist and father. I've interesting in data-science,
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&" alt="elibabah" width="55%"/></p>
 
 <p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah&layout=compact" alt="elibabah-stats" width="38%"/></p>
-<div>
+<div style="color:#000">
 
 .  
 .   
