@@ -64,9 +64,9 @@ ___
 
 <p align="right"><img align="rigth" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/DetailedPotableBobolink-size_restricted.gif" alt="elibabah-binary" width="39%" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&" alt="elibabah" width="55%"/></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&theme=dark" alt="elibabah" width="55%"/></p>
 
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah&layout=compact" alt="elibabah-stats" width="38%"/></p>
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah&theme=dark&layout=compact" alt="elibabah-stats" width="38%"/></p>
 <div style="color:#FFF">
 
 .  
