@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer & linguist</h3>
 
 
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/coded-data-cuted.gif" alt="elibabah's world"/></p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/coded-data-cuted.gif" alt="elibabah's world" width="100%"/></p>
 
 ![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg)
 <!--![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/three-worlds.jpg)-->
