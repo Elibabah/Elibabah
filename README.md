@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Elibabah!</h1>
 <h3 align="center">Frontend developer & linguist</h3>
 
-![Header](https://tenor.com/search/coded-gifs)
+![Header](https://c.tenor.com/w2WYZuHWZw0AAAAC/coded-data.gif)
 
 
 ![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg)
