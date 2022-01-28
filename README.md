@@ -56,9 +56,10 @@ I'm a frontend developer, linguist and father. I've interesting in data-science,
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elibabah&count_private=true&locale=en&show_icons=true&theme=radical)
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=monokai)-->
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=monokai" alt="elibabah's" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&" alt="elibabah" /></p>
 
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&" alt="elibabah" /></p>
 
+<p align=right"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/DetailedPotableBobolink-size_restricted.gif" alt="elibabah-binary width="50%"/></p>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
