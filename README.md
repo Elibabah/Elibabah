@@ -71,6 +71,10 @@ I'm a frontend developer, linguist and father. I've interesting in data-science,
 .   
 .   
 .   
+.   
+.   
+.   
+.   
 .
   
 ___   
