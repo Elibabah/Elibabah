@@ -2,7 +2,7 @@
 
 <!--<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/coded-data-cuted.gif" alt="elibabah's world" width="100%"/></p>-->
 
-![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg)
+![Header](https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/binary-hello-world.jpg)
 <!--![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/three-worlds.jpg)-->
 <!--<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg" alt="elibabah's world" width="80%" /></p>-->
 <!--[![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg "Elibabah's World")](https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/)-->
@@ -62,7 +62,7 @@ ___
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=elibabah&count_private=true&locale=en&show_icons=true&theme=radical" alt="commits-stats" width="55%"/></p>
 
-<p align="right"><img align="rigth" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/DetailedPotableBobolink-size_restricted.gif" alt="elibabah-binary" width="39%" /></p>
+<p align="right"><img align="rigth" src="https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/DetailedPotableBobolink-size_restricted.gif" alt="elibabah-binary" width="39%" /></p>
 
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&theme=dark" alt="elibabah" width="55%"/></p>
 
