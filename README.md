@@ -18,7 +18,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elibabah" height="20" width="20" /></a></p>
 
 <h3 align="center">Hello, World!</h3>
-I'm a frontend developer, linguist and father. I've interesting in data-science, artificial intelligence and natural language. So, I'm going to learn Python! I love literature, philosophy, math and physics. I believe in humanity and always remember this:
+I'm a frontend developer, linguist and father. I love programming! I have interested in data-science and artificial intelligence. In the future, I want to learn Python! I am in love with literature, philosophy, math and physics. I believe in humanity and always remember this:
 
 > Nothing human is alien to me. — Publio
 ___
