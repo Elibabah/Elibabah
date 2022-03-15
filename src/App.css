@@ -1,38 +1,39 @@
 .App {
+  display: grid;
+  width: auto;
+  height: 100vh;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 0.5fr 2fr 2fr  1fr;
+  grid-template-areas: "navBar navBar navBar" "projects projects projects" "contact contact contact" "footer footer footer";
+  padding: 0%;
+  column-gap: 2%;
+  row-gap: 0%;
+}
+
+.navBar {
+  grid-area: navBar;
   text-align: center;
+  background-color: black;
+  height: 100vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.projects {
+  grid-area: projects;
+  text-align: center;
+  background-color: red;
+  padding: 5%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.contact {
+  grid-area: contact;
+  text-align: center;
+  background-color: rebeccapurple;
+  padding: 5%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.footer {
+  grid-area: footer;
+  text-align: center;
+  background-color: gold;
+  padding: 2%;
 }
