@@ -1,5 +1,4 @@
 import './App.css';
-import NavBar from "./components/NavBar"
 import { NavBarBoot } from "./components/NavBarBootstrap"
 import Footer from "./components/Footer"
 import Projects from "./components/Projects"
