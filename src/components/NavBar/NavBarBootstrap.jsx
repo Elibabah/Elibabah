@@ -2,7 +2,6 @@ import Navbar from 'react-bootstrap/Navbar'
 import { Nav, Container, NavDropdown } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import "./NavBarBootstrap.css"
-import About from "../About/About"
 
 export const NavBarBoot = () => {
     return(
