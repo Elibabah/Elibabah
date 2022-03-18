@@ -3,37 +3,27 @@
   width: auto;
   height: 100vh;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 0.5fr 2fr 2fr  1fr;
-  grid-template-areas: "navBar navBar navBar" "projects projects projects" "contact contact contact" "footer footer footer";
+  grid-template-rows: 0.1fr 2fr  0.2fr;
+  grid-template-areas: "navBar navBar navBar" "main main main" "footer footer footer";
   padding: 0%;
-  column-gap: 2%;
+  column-gap: 0%;
   row-gap: 0%;
+  background-color: #000;
 }
 
 .navBar {
   grid-area: navBar;
   text-align: center;
-  background-color: black;
-  height: 100vh;
 }
 
-.projects {
-  grid-area: projects;
+.main {
+  grid-area: main;
   text-align: center;
-  background-color: red;
-  padding: 5%;
-}
-
-.contact {
-  grid-area: contact;
-  text-align: center;
-  background-color: rebeccapurple;
-  padding: 5%;
+  background-color: #000;
 }
 
 .footer {
   grid-area: footer;
   text-align: center;
-  background-color: gold;
-  padding: 2%;
+  color: white;
 }

@@ -1,0 +1,29 @@
+.changed { 
+   color: #D3D3D3;
+   text-decoration: none;
+}
+
+.changed:hover {
+   color: #FFF;
+}
+
+#ul { 
+   display: flex;
+   flex-wrap: wrap;
+   list-style-type: none;
+   justify-content: center;
+}
+
+#ul li { 
+   margin-top: 7%;
+}
+
+#linkOut { 
+   color: #D3D3D3;
+   margin: 0 10px;
+   text-decoration: none;
+}
+
+#linkOut:hover {
+   color: #FFF;
+}

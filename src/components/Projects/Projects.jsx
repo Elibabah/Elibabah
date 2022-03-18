@@ -1,5 +1,3 @@
-
-
 function Projects() {
   return (
     <div>

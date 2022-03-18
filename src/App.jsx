@@ -1,33 +1,35 @@
 import './App.css';
-import { NavBarBoot } from "./components/NavBarBootstrap"
-import Footer from "./components/Footer"
-import Projects from "./components/Projects"
-import { Contact } from "./components/Contact" 
-import About from "./components/About"
+import { Routes, Route } from "react-router-dom"
+import { NavBarBoot } from "./components/NavBar/NavBarBootstrap"
+import { Home } from './components/Home/Home';
+import About from "./components/About/About"
+import Projects from "./components/Projects/Projects"
+import { Contact } from "./components/Contact/Contact" 
+import Footer from "./components/Footer/Footer"
 
 function App() {
   return (
-    <main className='App'>
-
-      <div className="navBar">
+    <div className="App">
+    
+      <header className="navBar">
         <NavBarBoot/>
-        <About/>
-      </div>
-
-      <div className="projects">
-        <Projects/>
-      </div>
-
-      <div className="contact">
-        <Contact/>
-      </div>
-
-      <div className="footer">
+      </header>
+      
+      <main className="main">
+      <Routes>
+        <Route path="/" element={ <Home/> } />
+        <Route path="about" element={ <About/> } />
+        <Route path="projects" element={ <Projects/> } />
+        <Route path="contact" element={ <Contact/> } />
+      </Routes>
+      </main>
+    
+      <footer className="footer">
         <Footer/>
-      </div>
-
-    </main>
-  );
+      </footer>
+    
+    </div>
+  )
 }
 
 export default App;
