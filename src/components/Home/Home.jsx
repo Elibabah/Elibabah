@@ -1,5 +1,6 @@
 import React from 'react'
 import "./Home.css"
+import Typical from 'react-typical'
 
 export const Home = () => {
 
@@ -16,10 +17,31 @@ export const Home = () => {
   }
 
   return (
-    <div>
+
+    <div className='Home'>
+
+    <aside className='asideHome'>
       <div className='ojo'>
         <div className='punto'></div>
       </div>
+    </aside>
+    <header className='headerHome'>Hello, World!</header>
+    <main className="mainHome">Hi, There! I'm Elías Hernández <p>Elibabah</p>
+      <Typical
+        loop={Infinity}
+        steps={[
+          "React frontend developer",
+          1500,
+          "Responsive designer",
+          1500,
+          "Linguist",
+          1500,
+          "Father",
+          1500,
+        ]}
+      />
+    </main>
+    <footer className="footerHome"></footer>
     </div>
   )
 }
