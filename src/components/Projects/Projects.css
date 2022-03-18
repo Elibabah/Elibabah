@@ -1,0 +1,44 @@
+.Projects {
+    display: grid;
+    width: auto;
+    height: 100%;
+    grid-template-columns: 0.1fr 1fr 0.1fr;
+    grid-template-rows: 0.1fr 2fr;
+    grid-template-areas: "header header header" "aside1 main aside2";
+    padding: 0%;
+    column-gap: 0%;
+    row-gap: 0%;
+    background-color: #000;
+}
+
+.header {
+    grid-area: header;
+    text-align: center;
+    background-color: black;
+    font-size: 150%;
+    padding: 1%;
+}
+
+.aside1 {
+    grid-area: aside1;
+    text-align: center;
+    background-color: black;
+}
+
+.main {
+    grid-area: main;
+    text-align: center;
+    background-color: black;
+}
+
+.aside2 {
+    grid-area: aside2;
+    text-align: center;
+    background-color: black;
+}
+
+img {
+    height: 400px;
+    width: 200px;
+    border-radius: 1%;
+}
