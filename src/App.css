@@ -25,5 +25,5 @@
 .footer {
   grid-area: footer;
   text-align: center;
-  color: white;
+  background-color: #000;
 }
