@@ -1,8 +1,11 @@
+import CopyrightIcon from '@mui/icons-material/Copyright';
+import "./Footer.css"
+
 function Footer() {
   return (
-    <div>
-      Footer
-    </div>
+    <footer className='myFooter'>
+      <CopyrightIcon fontSize="small" sx={{ fontSize: 13 }}/> Elibabah
+  </footer>
   );
 }
 

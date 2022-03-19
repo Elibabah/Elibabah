@@ -9,7 +9,7 @@
     column-gap: 0%;
     row-gap: 0%;
     background-color: #000;
-    color: wheat;
+    color: cadetblue;
 }
 
 .headerHome {
@@ -29,6 +29,32 @@
 .footerHome {
     grid-area: footerHome;
     text-align: center;
+}
+
+.hello {
+    margin-top: 5%;
+    margin-bottom: 3%;
+    font-size: 200%;
+    color: aqua;
+} 
+
+.name {
+    margin-top: 1%;
+    font-size: 200%;
+    color: aqua;
+}
+
+.elibabah {
+    margin-top: 0%;
+    font-size: 150%;
+    color: cadetblue;
+}
+
+.types {
+    margin-top: 6%;
+    font-size: 170%;
+    color: cadetblue;
+    font-family: monospace;
 }
 
 .ojo {

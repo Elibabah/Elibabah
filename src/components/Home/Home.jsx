@@ -25,21 +25,25 @@ export const Home = () => {
         <div className='punto'></div>
       </div>
     </aside>
-    <header className='headerHome'>Hello, World!</header>
-    <main className="mainHome">Hi, There! I'm Elías Hernández <p>Elibabah</p>
-      <Typical
+    <header className='headerHome'></header>
+    <main className="mainHome">
+      <h1 className='hello'>Hello, World!</h1>
+      <h2 className='Im'>I'm<p className='name'>Elías Hernández</p></h2>
+      {/*<h3 className='elibabah'>(Elibabah)</h3>*/}
+        <h4 className='types'>      <Typical
         loop={Infinity}
         steps={[
-          "React frontend developer",
+          "Frontend developer ⚛",
           1500,
-          "Responsive designer",
+          "Responsive designer 💻 📱",
           1500,
           "Linguist",
           1500,
           "Father",
           1500,
         ]}
-      />
+      /></h4>
+
     </main>
     <footer className="footerHome"></footer>
     </div>
