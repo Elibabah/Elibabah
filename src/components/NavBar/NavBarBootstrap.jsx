@@ -1,6 +1,8 @@
 import Navbar from 'react-bootstrap/Navbar'
 import { Nav, Container, NavDropdown } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import GitHubIcon from '@mui/icons-material/GitHub';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import "./NavBarBootstrap.css"
 
 export const NavBarBoot = () => {
@@ -21,9 +23,10 @@ export const NavBarBoot = () => {
     
     <Nav>
         <ul id='ul'>
-            <li><a id='linkOut' href='https://www.linkedin.com/in/elibabah/' target="_blank">LinkedIn</a></li>
-            <li><a id='linkOut' href='https://github.com/Elibabah' target="_blank">GitHub</a></li>
+            <li><a id='linkOut' href='https://www.linkedin.com/in/elibabah/' target="_blank"><LinkedInIcon sx={{ fontSize: 31 }}/></a></li>
+            <li><a id='linkOut' href='https://github.com/Elibabah' target="_blank"><GitHubIcon sx={{ fontSize: 31 }}/></a></li>
         </ul>
+
     </Nav>
   
   </Navbar.Collapse>

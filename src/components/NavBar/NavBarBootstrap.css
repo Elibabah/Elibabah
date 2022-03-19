@@ -4,7 +4,8 @@
 }
 
 .changed:hover {
-   color: #FFF;
+   color: cadetblue;
+   font-size: 105%;
 }
 
 #ul { 
@@ -15,15 +16,15 @@
 }
 
 #ul li { 
-   margin-top: 7%;
+   margin-top: 19%;
 }
 
 #linkOut { 
-   color: #D3D3D3;
+   color:cadetblue;
    margin: 0 10px;
    text-decoration: none;
 }
 
 #linkOut:hover {
-   color: #FFF;
+   color: aqua;
 }
