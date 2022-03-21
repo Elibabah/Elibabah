@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Home.css"
 import Typical from 'react-typical'
+import FileDownloadOutlinedIcon from '@mui/icons-material/FileDownloadOutlined';
 
 export const Home = () => {
 
@@ -43,8 +44,9 @@ export const Home = () => {
           1500,
         ]}
       /></h4>
-<a href="Elias_Hernandez_resume_eng.pdf" download='Elias_Hernandez_resume_eng.pdf'>
-                                    <button className="btn highlighted-btn">Descargar CV</button></a>
+    <a href="Elias_Hernandez_resume_eng.pdf" download='Elias_Hernandez_resume_eng.pdf'>
+    <button className="btn btn-resume"><FileDownloadOutlinedIcon/>Resume</button></a>
+    
     </main>
     <footer className="footerHome"></footer>
     </div>
