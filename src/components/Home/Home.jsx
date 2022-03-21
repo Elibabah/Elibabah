@@ -43,7 +43,8 @@ export const Home = () => {
           1500,
         ]}
       /></h4>
-
+<a href="Elias_Hernandez_resume_eng.pdf" download='Elias_Hernandez_resume_eng.pdf'>
+                                    <button className="btn highlighted-btn">Descargar CV</button></a>
     </main>
     <footer className="footerHome"></footer>
     </div>
