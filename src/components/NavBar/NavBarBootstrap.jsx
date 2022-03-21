@@ -26,7 +26,6 @@ export const NavBarBoot = () => {
             <li><a id='linkOut' href='https://www.linkedin.com/in/elibabah/' target="_blank"><LinkedInIcon sx={{ fontSize: 31 }}/></a></li>
             <li><a id='linkOut' href='https://github.com/Elibabah' target="_blank"><GitHubIcon sx={{ fontSize: 31 }}/></a></li>
         </ul>
-
     </Nav>
   
   </Navbar.Collapse>
