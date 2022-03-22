@@ -24,7 +24,7 @@ function About() {
 
 <div className="picture">
   <img className="photo" src="https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/About/Elibaba's%20photo.jpg"/>
-  <div><a href="about/Elias_Hernandez_resume_eng.pdf" download='Elias_Hernandez_resume_eng.pdf' target="_blank">
+  <div><a href="/Elias_Hernandez_resume_eng.pdf" download='Elias_Hernandez_resume_eng.pdf' target="_blank">
     <button className="btn btn-resume-about"><FileDownloadOutlinedIcon/> Resume</button></a></div>
 </div>
 
