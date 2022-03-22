@@ -16,7 +16,7 @@ function About() {
         steps={[
           "Hi there! I am Elibabah, and my passions, besides software, are literature, philosophy, mathematics and physics.",
           1500,
-          "Hi there! I am Elibabah. I am a frontend developer and I  have interest Data Science and Artificial Intelligence.",
+          "Hi there! I am Elibabah. I am a frontend developer and I  have interest in Data Science and Artificial Intelligence.",
           1500,
         ]}
       />

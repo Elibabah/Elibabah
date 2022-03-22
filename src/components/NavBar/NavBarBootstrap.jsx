@@ -11,14 +11,14 @@ export const NavBarBoot = () => {
 <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
   <Container>
 
-  <Navbar.Brand><Link className="changed" to="/elibabah"><img src="https://raw.githubusercontent.com/Elibabah/elibabah/release/public/code.png" alt="imageHome" className='imgHome'/></Link></Navbar.Brand>
+  <Navbar.Brand><Link className="changed" to="/elibabah/"><img src="https://raw.githubusercontent.com/Elibabah/elibabah/release/public/code.png" alt="imageHome" className='imgHome'/></Link></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
 
     <Nav className="me-auto">
-      <Nav.Link><Link className="changed" to="/about">About me</Link></Nav.Link>
-      <Nav.Link><Link className="changed" to="/projects">My projects</Link></Nav.Link>
-      <Nav.Link><Link className="changed" to="/contact">Contact me</Link></Nav.Link>
+      <Nav.Link><Link className="changed" to="/about/">About me</Link></Nav.Link>
+      <Nav.Link><Link className="changed" to="/projects/">My projects</Link></Nav.Link>
+      <Nav.Link><Link className="changed" to="/contact/">Contact me</Link></Nav.Link>
     </Nav>
     
     <Nav>
