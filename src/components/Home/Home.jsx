@@ -45,7 +45,7 @@ export const Home = () => {
           1500,
         ]}
       /></h4>
-    <a href="Elias_Hernandez_resume_eng.pdf" download='Elias_Hernandez_resume_eng.pdf'>
+    <a href="Elias_Hernandez_resume_eng.pdf" download='Elias_Hernandez_resume_eng.pdf' target="_blank">
     <button className="btn btn-resume"><FileDownloadOutlinedIcon/> Resume</button></a>
     
     </main>
