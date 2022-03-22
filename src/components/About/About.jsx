@@ -2,7 +2,6 @@ import "./About.css"
 import {SiHtml5, SiCss3, SiJavascript, SiReact, SiBootstrap, SiMaterialui, SiWebpack, SiBabel, SiChartdotjs, SiPlaycanvas, SiGnubash, SiGit, SiGithub, SiFirebase, SiJest, SiMarkdown, SiLinux, SiWindows, SiTailwindcss, SiNpm } from "react-icons/si";
 import {BsKanbanFill} from "react-icons/bs"
 import Typical from 'react-typical'
-import FileDownloadOutlinedIcon from '@mui/icons-material/FileDownloadOutlined';
 
 
 function About() {
@@ -24,8 +23,15 @@ function About() {
 
 <div className="picture">
   <img className="photo" src="https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/About/Elibaba's%20photo.jpg"/>
-  <div><a href="/Elias_Hernandez_resume_eng.pdf" download='Elias_Hernandez_resume_eng.pdf' target="_blank">
-    <button className="btn btn-resume-about"><FileDownloadOutlinedIcon/> Resume</button></a></div>
+  <div className="details">
+    <ul>
+      <li><a href="https://www.freecodecamp.org/certification/elibabah/responsive-web-design" target="blank" className="certifica">Responsive Web Design</a></li>
+      <li><a href="https://www.freecodecamp.org/certification/elibabah/javascript-algorithms-and-data-structures" target="blank" className="certifica">JavaScript, Algorithms and Data Structures</a></li>
+      <li><a href="#" target="blank" className="certifica">React frontend development libraries</a></li>
+    </ul>
+  </div>
+  
+
 </div>
 
     <tech className="hardskills">
