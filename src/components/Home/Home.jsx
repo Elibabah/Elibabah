@@ -45,7 +45,7 @@ export const Home = () => {
         ]}
       /></h4>
     <a href="Elias_Hernandez_resume_eng.pdf" download='Elias_Hernandez_resume_eng.pdf'>
-    <button className="btn btn-resume"><FileDownloadOutlinedIcon/>Resume</button></a>
+    <button className="btn btn-resume"><FileDownloadOutlinedIcon/> Resume</button></a>
     
     </main>
     <footer className="footerHome"></footer>

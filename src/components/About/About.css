@@ -1,3 +1,160 @@
-h1 {
-    color: blue;
+.About {
+    display: grid;
+    width: auto;
+    height: 100%;
+    grid-template-columns: 0.2fr 2fr 0.5;
+    grid-template-rows: 1fr;
+    grid-template-areas: "description hardskills softskills";
+    padding: 0%;
+    column-gap: 0%;
+    row-gap: 0%;
+    background-color: #000;
+    color: cadetblue;
+}
+
+
+.description {
+    grid-area: description;
+    background-color: aqua;
+}
+
+.hardskills {
+    grid-area: hardskills;
+    display: flex;
+    column-gap: 2%;
+    row-gap: 2%;
+    flex-direction: column;
+}
+
+.softskills {
+    grid-area: softskills;
+    background-color: blueviolet;
+}
+
+/*.techs {
+    display: flex;
+    flex-direction: column;
+}*/
+
+.btn-skills{
+    border: rgba(102, 102, 102, 0.26) solid 1.5px;
+    border-radius: 17%;
+    width: 4.5em;
+    height: 4.5em;
+    justify-content:center;
+    background-color: black;
+    margin-inline: 1%;
+    margin-top: 2%;
+}
+
+.btn-skills:hover{
+    transform: scale(0.9);
+    transition: all 0.7s ease;
+    text-decoration: none;
+}
+
+.enlaces {
+    font-size: 0.8em;
+}
+
+#html{
+    color: orangered;
+    text-decoration: none;
+}
+
+#css { 
+    text-decoration: none;
+    color:rgb(45, 93, 252);
+}
+
+#javascript{
+    color:rgb(207, 187, 3);
+    text-decoration: none;
+}
+#react{
+    color:rgb(4, 196, 196);
+    text-decoration: none;
+}
+#bootstrap{
+    color:rgb(85, 36, 219);
+    text-decoration: none;
+}
+
+#webpack {
+    text-decoration: none;
+    color: #48D1CC;
+}
+
+#babel {
+    text-decoration: none;
+    color: #FFD700;
+}
+
+#chart {
+    text-decoration: none;
+    color: #F08080;
+}
+
+#canvas {
+    text-decoration: none;
+    color: #FFF;
+}
+
+#gnu {
+    text-decoration: none;
+    color: #FFF;
+}
+
+#git {
+    text-decoration: none;
+    color: #FF4500;
+}
+
+#github {
+    text-decoration: none;
+    color: #FFF;
+}
+
+#firebase {
+    text-decoration: none;
+    color: #FFD700;
+}
+
+#jest {
+    text-decoration: none;
+    color: #CD5C5C;
+}
+
+#Kanban {
+    text-decoration: none;
+    color: #800080;
+}
+
+#markdown {
+    text-decoration: none;
+    color: #FFF;
+}
+
+#bootstrap {
+    text-decoration: none;
+}
+
+#material {
+    text-decoration: none;
+    color: #0000FF;
+}
+
+#Tailwindcss {
+    text-decoration: none;
+    color: #1E90FF;
+}
+
+#linux {
+    text-decoration: none;
+    color: #FFA500;
+}
+
+#windows {
+    text-decoration: none;
+    color: #0000CD;
 }
