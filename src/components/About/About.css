@@ -120,20 +120,36 @@
 }
 
 .photo {
-    margin-top: 10%;
+    margin-top: 8%;
     border-radius: 50%;
-    width: 60%;
-    height: 50%;
+    width: 55%;
+    height: 45%;
 }
 
-.btn-resume-about {
+.details {
     color:aqua;
-    margin-top: 16%;
+    margin-top: 20%;
+    margin-left: 5%;
 }
 
-.btn-resume-about:hover {
+ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+ul li {
+    margin-top: 0%;
+}
+
+.certifica {
+    color: cadetblue;
+    text-decoration: none;
+    font-size: 85%;
+}
+
+.certifica:hover {
     color:aqua;
-    font-size: 110%;
+    font-size: 88%;
 }
 
 .btn-skills{
@@ -141,7 +157,7 @@
     border-radius: 17%;
     width: 80%;
     height: 95%;
-    justify-content:center;
+    justify-content: center;
     background-color: black;
 }
 
