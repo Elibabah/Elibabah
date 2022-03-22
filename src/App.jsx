@@ -17,10 +17,10 @@ function App() {
       
       <main className="main">
       <Routes>
-        <Route path="elibabah" element={ <Home/> } />
-        <Route path="about" element={ <About/> } />
-        <Route path="projects" element={ <Projects/> } />
-        <Route path="contact" element={ <Contact/> } />
+        <Route path="elibabah/" element={ <Home/> } />
+        <Route path="about/" element={ <About/> } />
+        <Route path="projects/" element={ <Projects/> } />
+        <Route path="contact/" element={ <Contact/> } />
       </Routes>
       </main>
     
