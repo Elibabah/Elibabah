@@ -2,9 +2,9 @@
     display: grid;
     width: auto;
     height: 100%;
-    grid-template-columns: 0.2fr 2fr 0.5;
-    grid-template-rows: 1fr;
-    grid-template-areas: "description hardskills softskills";
+    grid-template-columns: 0.5fr 1fr 0.5fr;
+    grid-template-rows: 0.2fr 1fr;
+    grid-template-areas: "headerDes headerDes headerDes" "picture hardskills softskills";
     padding: 0%;
     column-gap: 0%;
     row-gap: 0%;
@@ -12,39 +12,137 @@
     color: cadetblue;
 }
 
+.picture {
+    grid-area: picture;
+}
 
-.description {
-    grid-area: description;
-    background-color: aqua;
+.headerDes {
+    grid-area: headerDes;
+    font-size: 110%;
+    color: white;
+    padding-top: 1.5%;
 }
 
 .hardskills {
     grid-area: hardskills;
-    display: flex;
-    column-gap: 2%;
-    row-gap: 2%;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr;
+    grid-template-rows: 0.5fr 0.5fr 0.5fr 0.5fr;
+    grid-template-areas: "uno dos tres cuatro cinco" "seis siete ocho nueve diez" "once doce trece catorce quince" "dieciseis diecisiete dieciocho diecinueve veinte";
+    margin-inline-end: 2%;
+    margin-inline-start: 2%;
+    column-gap: 1%;
+    row-gap: 1%;
+}
+
+.uno {
+    grid-area: uno;
+}
+
+.dos {
+    grid-area: dos;
+}
+
+.tres {
+    grid-area: tres;
+}
+
+.cuatro {
+    grid-area: cuatro;
+}
+
+.cinco {
+    grid-area: cinco;
+}
+
+.seis {
+    grid-area: seis;
+}
+
+.siete {
+    grid-area: siete;
+}
+
+.ocho {
+    grid-area: ocho;
+}
+
+.nueve {
+    grid-area: nueve;
+}
+
+.diez {
+    grid-area: diez;
+}
+
+.once {
+    grid-area: once;
+}
+
+.doce {
+    grid-area: doce;
+}
+
+.trece {
+    grid-area: trece;
+}
+
+.catorce {
+    grid-area: catorce;
+}
+
+.quince {
+    grid-area: quince;
+}
+
+.dieciseis {
+    grid-area: dieciseis;
+}
+
+.diecisiete {
+    grid-area: diecisiete;
+}
+
+.dieciocho {
+    grid-area: dieciocho;
+}
+
+.diecinueve {
+    grid-area: diecinueve;
+}
+
+.veinte {
+    grid-area: veinte;
 }
 
 .softskills {
     grid-area: softskills;
-    background-color: blueviolet;
 }
 
-/*.techs {
-    display: flex;
-    flex-direction: column;
-}*/
+.photo {
+    margin-top: 10%;
+    border-radius: 50%;
+    width: 60%;
+    height: 50%;
+}
+
+.btn-resume-about {
+    color:aqua;
+    margin-top: 16%;
+}
+
+.btn-resume-about:hover {
+    color:aqua;
+    font-size: 110%;
+}
 
 .btn-skills{
     border: rgba(102, 102, 102, 0.26) solid 1.5px;
     border-radius: 17%;
-    width: 4.5em;
-    height: 4.5em;
+    width: 80%;
+    height: 95%;
     justify-content:center;
     background-color: black;
-    margin-inline: 1%;
-    margin-top: 2%;
 }
 
 .btn-skills:hover{
@@ -54,7 +152,7 @@
 }
 
 .enlaces {
-    font-size: 0.8em;
+    font-size: 70%;
 }
 
 #html{
@@ -154,7 +252,7 @@
     color: #FFA500;
 }
 
-#windows {
+#npm {
     text-decoration: none;
-    color: #0000CD;
+    color: #FF0000;
 }
