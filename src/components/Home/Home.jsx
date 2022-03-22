@@ -31,7 +31,8 @@ export const Home = () => {
       <h1 className='hello'>Hello, World!</h1>
       <h2 className='Im'>I'm<p className='name'>Elías Hernández</p></h2>
       {/*<h3 className='elibabah'>(Elibabah)</h3>*/}
-        <h4 className='types'>      <Typical
+        <h4 className='types'>      
+        <Typical
         loop={Infinity}
         steps={[
           "Frontend developer ⚛",
