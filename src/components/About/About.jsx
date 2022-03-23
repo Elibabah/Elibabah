@@ -3,7 +3,6 @@ import {SiHtml5, SiCss3, SiJavascript, SiReact, SiBootstrap, SiMaterialui, SiWeb
 import {BsKanbanFill} from "react-icons/bs"
 import Typical from 'react-typical'
 
-
 function About() {
 
   const style = { width: '100%', height: '2em'}
@@ -217,7 +216,26 @@ function About() {
       </div>*/}
     </tech>
 
-    <soft className="softskills">soft</soft>
+    <soft className="softskills">
+    
+      <div className="container-flip">
+        <div className="portrait">
+            <div className="cover">My softskills</div>
+            <div className="back">Back</div>
+        </div>
+      </div>
+
+      {/*<div className="card">
+
+          <div className="front">
+            <h1 className="A">A</h1>
+          </div>
+          <div className="back">
+            <h1 className="B">B</h1>
+          </div>
+      </div>*/}
+    
+    </soft>
 
     
     </div>
