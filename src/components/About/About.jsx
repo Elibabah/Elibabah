@@ -23,6 +23,7 @@ function About() {
 <div className="picture">
   <img className="photo" src="https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/About/Elibaba's%20photo.jpg"/>
   <div className="details">
+    <div className="certiTile">Certifications:</div>
     <ul>
       <li><a href="https://www.freecodecamp.org/certification/elibabah/responsive-web-design" target="blank" className="certifica">Responsive Web Design</a></li>
       <li><a href="https://www.freecodecamp.org/certification/elibabah/javascript-algorithms-and-data-structures" target="blank" className="certifica">JavaScript, Algorithms and Data Structures</a></li>
@@ -221,7 +222,17 @@ function About() {
       <div className="container-flip">
         <div className="portrait">
             <div className="cover">My softskills</div>
-            <div className="back">Back</div>
+            <div className="back">
+              <ul>
+                <li className="softSk">Teamwork</li>
+                <li className="softSk">Self-learning</li>
+                <li className="softSk">Assertive communication</li>
+                <li className="softSk">Problem solving</li>
+                <li className="softSk">Agile Methodology</li>
+                <li className="softSk">Leadership</li>
+                <li className="softSk">Resilience</li>
+              </ul>
+            </div>
         </div>
       </div>
 
