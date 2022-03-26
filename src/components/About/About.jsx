@@ -5,7 +5,7 @@ import Typical from 'react-typical'
 
 function About() {
 
-  const style = { width: '100%', height: '2em'}
+  const style = { width: '100%', height: '2.5em'}
   return (
     <div className="About">
 
@@ -223,15 +223,12 @@ function About() {
         <div className="portrait">
             <div className="cover">My softskills</div>
             <div className="back">
-              <ul>
-                <li className="softSk">Teamwork</li>
-                <li className="softSk">Self-learning</li>
-                <li className="softSk">Assertive communication</li>
-                <li className="softSk">Problem solving</li>
-                <li className="softSk">Agile Methodology</li>
-                <li className="softSk">Leadership</li>
-                <li className="softSk">Resilience</li>
-              </ul>
+                <div className="softSk">Teamwork</div>
+                <div className="softSk">Self-learning</div>
+                <div className="softSk">Assertive communication</div>
+                <div className="softSk">Problem solving</div>
+                <div className="softSk">Leadership</div>
+                <div className="softSk">Resilience</div>
             </div>
         </div>
       </div>
