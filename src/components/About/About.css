@@ -416,7 +416,6 @@ ul li {
         height: 15rem;
         perspective: 1000px;
         background-color: transparent;
-        margin-right: 5%;
         margin-top: 8%;
         margin-bottom: 8%;
     }
@@ -464,6 +463,7 @@ ul li {
         color:aqua;
         margin-top: 1%;
         margin-left: 5%;
+        margin-bottom: 5%;
     }
 
     .headerDes {
