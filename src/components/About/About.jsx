@@ -232,20 +232,7 @@ function About() {
             </div>
         </div>
       </div>
-
-      {/*<div className="card">
-
-          <div className="front">
-            <h1 className="A">A</h1>
-          </div>
-          <div className="back">
-            <h1 className="B">B</h1>
-          </div>
-      </div>*/}
-    
     </soft>
-
-    
     </div>
   );
 }
