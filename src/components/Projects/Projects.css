@@ -2,8 +2,8 @@
     display: grid;
     width: auto;
     height: 100%;
-    grid-template-columns: 0.1fr 1fr 0.1fr;
-    grid-template-rows: 0.1fr 2fr;
+    grid-template-columns: 0.15fr 1fr 0.15fr;
+    grid-template-rows: 0.05fr 2fr;
     grid-template-areas: "header header header" "aside1 main aside2";
     padding: 0%;
     column-gap: 0%;
@@ -15,8 +15,7 @@
     grid-area: header;
     text-align: center;
     background-color: black;
-    font-size: 150%;
-    padding: 1%;
+    padding: 0.5%;
 }
 
 .aside1 {
