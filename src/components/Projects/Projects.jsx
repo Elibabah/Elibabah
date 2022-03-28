@@ -1,6 +1,7 @@
 import React from "react";
 import "./Projects.css";
 import { SlideProjects } from "../Carousel/Carousel"
+import Card from "../Flipcard/Flipcard"
 
 function Projects() {
 
@@ -11,7 +12,9 @@ function Projects() {
       <main className="main">
         <SlideProjects/>
       </main>
-      <aside2 className="aside2"></aside2>
+      <aside2 className="aside2">
+        <Card/>
+      </aside2>
     </div>
   );
 }
