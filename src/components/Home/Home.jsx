@@ -7,7 +7,6 @@ export const Home = () => {
   return (
 
   <div className='Home'>
-    <header className='headerHome'></header>
     <main className="mainHome">
       <h1 className='hello'>Hello, World!</h1>
       <h2 className='Im'>I'm<p className='name'>Elías Hernández</p></h2>
@@ -30,7 +29,6 @@ export const Home = () => {
     <button className="btn btn-resume"><FileDownloadOutlinedIcon/> Resume</button></a>
     
     </main>
-    <footer className="footerHome"></footer>
     </div>
   )
 }

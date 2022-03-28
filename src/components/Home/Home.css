@@ -3,28 +3,35 @@
     width: auto;
     height: 100vh;
     grid-template-columns: 1fr;
-    grid-template-rows: 0.1fr 2fr  0.2fr;
-    grid-template-areas: "headerHome" "mainHome" "footerHome";
+    grid-template-rows: 1fr;
+    grid-template-areas: "mainHome";
     padding: 0%;
     column-gap: 0%;
     row-gap: 0%;
-    background-color: #000;
     color: cadetblue;
-}
-
-.headerHome {
-    grid-area: headerHome;
-    text-align: center;
 }
 
 .mainHome {
     grid-area: mainHome;
     text-align: center;
+    background-image: url(https://thumbs.gfycat.com/WindyImpeccableArkshell-size_restricted.gif);
+    background-size: cover;
 }
 
-.footerHome {
-    grid-area: footerHome;
-    text-align: center;
+.mainHome::after {
+    content: "";
+    background-color: black;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.8;
+}
+
+.Home * {
+    position: relative;
+    z-index: 1;
 }
 
 .hello {
