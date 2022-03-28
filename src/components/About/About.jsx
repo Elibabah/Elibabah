@@ -1,5 +1,5 @@
 import "./About.css"
-import {SiHtml5, SiCss3, SiJavascript, SiReact, SiBootstrap, SiMaterialui, SiWebpack, SiBabel, SiChartdotjs, SiPlaycanvas, SiGnubash, SiGit, SiGithub, SiFirebase, SiJest, SiMarkdown, SiLinux, SiWindows, SiTailwindcss, SiNpm } from "react-icons/si";
+import {SiHtml5, SiCss3, SiJavascript, SiReact, SiBootstrap, SiMaterialui, SiWebpack, SiBabel, SiChartdotjs, SiPlaycanvas, SiGnubash, SiGit, SiGithub, SiFirebase, SiJest, SiMarkdown, SiLinux, SiTailwindcss, SiNpm } from "react-icons/si";
 import {BsKanbanFill} from "react-icons/bs"
 import Typical from 'react-typical'
 
@@ -21,7 +21,7 @@ function About() {
       </div>
 
 <div className="picture">
-  <img className="photo" src="https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/About/Elibaba's%20photo.jpg"/>
+  <img className="photo" src="https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/About/Elibaba's%20photo.jpg" alt="Elibabah"/>
   <div className="details">
     <div className="certiTile">Certifications:</div>
     <ul>

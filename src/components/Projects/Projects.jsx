@@ -2,6 +2,7 @@ import React from "react";
 import "./Projects.css";
 import { SlideProjects } from "../Carousel/Carousel"
 
+
 function Projects() {
 
   return (
@@ -11,7 +12,8 @@ function Projects() {
       <main className="main">
         <SlideProjects/>
       </main>
-      <aside2 className="aside2"></aside2>
+      <aside2 className="aside2">
+      </aside2>
     </div>
   );
 }

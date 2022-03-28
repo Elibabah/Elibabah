@@ -1,34 +1,37 @@
 .Home {
     display: grid;
     width: auto;
-    height: 100%;
-    grid-template-columns: 0.5fr 1fr;
-    grid-template-rows: 0.1fr 2fr  0.2fr;
-    grid-template-areas: "asideHome headerHome" "asideHome mainHome" "asideHome footerHome";
+    height: 100vh;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: "mainHome";
     padding: 0%;
     column-gap: 0%;
     row-gap: 0%;
-    background-color: #000;
     color: cadetblue;
 }
 
-.headerHome {
-    grid-area: headerHome;
-    text-align: center;
-}
-
-.asideHome {
-    grid-area: asideHome;
-    text-align: center;
-}
 .mainHome {
     grid-area: mainHome;
     text-align: center;
+    background-image: url(https://thumbs.gfycat.com/WindyImpeccableArkshell-size_restricted.gif);
+    background-size: cover;
 }
 
-.footerHome {
-    grid-area: footerHome;
-    text-align: center;
+.mainHome::after {
+    content: "";
+    background-color: black;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.8;
+}
+
+.Home * {
+    position: relative;
+    z-index: 1;
 }
 
 .hello {
@@ -51,38 +54,15 @@
 }
 
 .types {
-    margin-top: 6%;
+    margin-top: 3%;
     font-size: 170%;
     color: cadetblue;
     font-family: monospace;
 }
 
-.ojo {
-    display: block;
-    margin: auto;
-    margin-top: 20%;
-    width: 50%;
-    height: 30%;
-    background-color: white;
-    border-radius: 50%;
-    left: 25%;
-    top: 25%;
-}
-
-.punto {
-    position: relative;
-    width: 25%;
-    height: 65%;
-    background-color: black;
-    left: 25%;
-    top: 25%;
-    transform: translate(-50%, -50%);
-    border-radius: 50%;
-}
-
 .btn-resume {
     color:aqua;
-    margin-top: 5%;
+    margin-top: 4%;
 }
 
 .btn-resume:hover {
