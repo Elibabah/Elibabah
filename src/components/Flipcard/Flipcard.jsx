@@ -19,9 +19,9 @@ import PropTypes from "prop-types";
 // @mui material components
 import Tooltip from "@mui/material/Tooltip";
 
-// Material Kit 2 React components
-import MKBox from "components/MKBox";
-import MKTypography from "components/MKTypography";
+// Material Kit 2 React components 
+import MKBox from "../MKBox/MKBoxRoot";
+import MKTypography from "../MKTypography/MKTypographyRoot";
 
 function ExampleCard({ image, name, count, pro, ...rest }) {
   const imageTemplate = (
@@ -121,4 +121,4 @@ ExampleCard.propTypes = {
   pro: PropTypes.bool,
 };
 
-export default Card;
+export default ExampleCard;

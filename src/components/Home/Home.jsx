@@ -4,28 +4,9 @@ import Typical from 'react-typical'
 import FileDownloadOutlinedIcon from '@mui/icons-material/FileDownloadOutlined';
 
 export const Home = () => {
-
-  let ojo = document.querySelector(".ojo")
-  let punto = document.querySelector(".punto")
-
-  document.onmousemove = (e) => {
-    let x = e.clientX * 100 / window.innerWidth + "%"
-  
-    let y = e.clientY * 100 / window.innerHeight + "%"
-
-    punto.style.left = x;
-    punto.style.top = y;
-  }
-
   return (
 
-    <div className='Home'>
-
-    <aside className='asideHome'>
-      <div className='ojo'>
-        <div className='punto'></div>
-      </div>
-    </aside>
+  <div className='Home'>
     <header className='headerHome'></header>
     <main className="mainHome">
       <h1 className='hello'>Hello, World!</h1>
