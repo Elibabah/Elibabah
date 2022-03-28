@@ -1,6 +1,8 @@
+import "./Contact.css"
+
 export const Contact = () => {
     return (
-      <div>
+      <div className="Contact">
 contact
   
       </div>
