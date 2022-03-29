@@ -1,7 +1,7 @@
 .Home {
     display: grid;
     width: auto;
-    height: 100vh;
+    height: 95vh;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
     grid-template-areas: "mainHome";
@@ -68,4 +68,26 @@
 .btn-resume:hover {
     color:aqua;
     font-size: 120%;
+}
+
+@media only screen and (max-width: 820px) {
+    /* For mobile phones: */
+    .hello {
+        height: auto;
+        width: 100%;
+        margin-top: 43%;
+        font-size: 300%;
+    }
+    .name {
+        font-size: 250%;
+    }
+    .types {
+        margin-top: 8%;
+        font-size: 200%;
+    }
+
+    .btn-resume {
+        margin-top: 30%;
+        font-size: 170%;
+    }
 }

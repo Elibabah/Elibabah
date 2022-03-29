@@ -11,6 +11,7 @@ function About() {
 
       <div className="headerDes">
       <Typical
+        loop={Infinity}
         steps={[
           "Hi there! I am Elibabah, and my passions, besides software, are literature, philosophy, mathematics and physics.",
           1500,
