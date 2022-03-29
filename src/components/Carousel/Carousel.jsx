@@ -42,7 +42,7 @@ export const SlideProjects = (props) => {
     ]
 
     return (
-        <Carousel>
+        <Carousel className='Carousel'>
             {
                 items.map( (item, i) => <Item key={i} item={item} /> )
             }
@@ -52,7 +52,9 @@ export const SlideProjects = (props) => {
 
 const Item = (props) => {
     return (
-        <Paper>
+        <div className="rotate">
+
+        <Paper className='Paper'>
             <h5 className='repoName'>{props.item.name}</h5>
             <image>
             <a href={props.item.demoLink} target="_blank">
@@ -69,5 +71,6 @@ const Item = (props) => {
                 </Button>
             </a>
         </Paper>
+        </div>
     )
 }
