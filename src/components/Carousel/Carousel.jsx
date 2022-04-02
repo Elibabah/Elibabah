@@ -17,7 +17,7 @@ export const SlideProjects = (props) => {
         {
             name: "Pachamama",
             description: "Network",
-            picture: "https://www.nationalgeographic.com.es/medio/2018/02/27/playa-de-isuntza-lekeitio__1280x720.jpg", 
+            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/pachamama.jpg", 
             alt: "Pachamama",
             repoLink: "https://github.com/Elibabah/pachamama",
             demoLink: "https://elibabah.github.io/pachamama/"
@@ -25,7 +25,7 @@ export const SlideProjects = (props) => {
         {
             name: "Schedule To Do",
             description: "Schedule To Do",
-            picture: "https://haciendofotos.com/wp-content/uploads/las-mejores-fotos-de-paisajes-2020.jpg", 
+            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/schedule.jpg", 
             alt: "Schedule To Do",
             repoLink: "https://github.com/Elibabah/technicalChallenge_2ndBlock",
             demoLink: "https://elibabah.github.io/technicalChallenge_2ndBlock/src/login.html"
@@ -33,7 +33,7 @@ export const SlideProjects = (props) => {
         {
             name: "Visitors reception",
             description: "Visitors Reception Coworking App",
-            picture: "https://img.freepik.com/foto-gratis/hermoso-camino-madera-que-impresionantes-arboles-coloridos-bosque_181624-5840.jpg?size=626&ext=jpg", 
+            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/coworking.jpg", 
             alt: "Visitors reception",
             repoLink: "https://github.com/Elibabah/07_Visitors_Reception",
             demoLink: "https://elibabah.github.io/07_Visitors_Reception/src/index.html"
@@ -41,7 +41,7 @@ export const SlideProjects = (props) => {
         {
             name: "Mexflix",
             description: "Mexflix Movie App",
-            picture: "https://img.freepik.com/foto-gratis/hermoso-camino-madera-que-impresionantes-arboles-coloridos-bosque_181624-5840.jpg?size=626&ext=jpg", 
+            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/mexflix.jpg", 
             alt: "slide 4",
             repoLink: "https://github.com/Elibabah/Mexflix",
             demoLink: "https://elibabah.github.io/Mexflix/src/index.html"
@@ -49,7 +49,7 @@ export const SlideProjects = (props) => {
         {
             name: "Caesar Cipher",
             description: "Cipher",
-            picture: "https://img.freepik.com/foto-gratis/hermoso-camino-madera-que-impresionantes-arboles-coloridos-bosque_181624-5840.jpg?size=626&ext=jpg", 
+            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/cipher.jpg", 
             alt: "slide 4",
             repoLink: "https://github.com/Drancer55/03_SecurityCypher-",
             demoLink: "https://drancer55.github.io/03_SecurityCypher-/src/index.html"
@@ -57,7 +57,7 @@ export const SlideProjects = (props) => {
         {
             name: "Musical Keyboard",
             description: "Musical Keyboard",
-            picture: "https://img.freepik.com/foto-gratis/hermoso-camino-madera-que-impresionantes-arboles-coloridos-bosque_181624-5840.jpg?size=626&ext=jpg", 
+            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/keyboard.jpg", 
             alt: "Musical Keyboard",
             repoLink: "https://github.com/Elibabah/01_MusicalKeyBoard_project",
             demoLink: "https://elibabah.github.io/01_MusicalKeyBoard_project/index.html"
@@ -65,7 +65,7 @@ export const SlideProjects = (props) => {
         {
             name: "Memory Game",
             description: "Memory Game",
-            picture: "https://img.freepik.com/foto-gratis/hermoso-camino-madera-que-impresionantes-arboles-coloridos-bosque_181624-5840.jpg?size=626&ext=jpg", 
+            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/memory.jpg", 
             alt: "Memory Game",
             repoLink: "https://github.com/Elibabah/Memory-Game",
             demoLink: "https://elibabah.github.io/Memory-Game/src/index.html"
@@ -73,7 +73,7 @@ export const SlideProjects = (props) => {
         {
             name: "Trivia Studio Ghibli",
             description: "Trivia",
-            picture: "https://img.freepik.com/foto-gratis/hermoso-camino-madera-que-impresionantes-arboles-coloridos-bosque_181624-5840.jpg?size=626&ext=jpg", 
+            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/trivia.jpg", 
             alt: "Trivia Studio Ghibli",
             repoLink: "https://github.com/Elibabah/Trivia",
             demoLink: "https://elibabah.github.io/Trivia/"

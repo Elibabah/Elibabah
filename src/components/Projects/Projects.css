@@ -2,7 +2,7 @@
     display: grid;
     width: auto;
     height: 100vh;
-    grid-template-columns: 0.15fr 1fr 0.15fr;
+    grid-template-columns: 0.2fr 1fr 0.2fr;
     grid-template-rows: 0.05fr 2fr;
     grid-template-areas: "header header header" "aside1 main aside2";
     padding: 4.5%;
