@@ -25,7 +25,7 @@ export const SlideProjects = (props) => {
         {
             name: "Schedule To Do",
             description: "Schedule To Do",
-            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/schedule.jpg", 
+            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/schedule2.jpg", 
             alt: "Schedule To Do",
             repoLink: "https://github.com/Elibabah/technicalChallenge_2ndBlock",
             demoLink: "https://elibabah.github.io/technicalChallenge_2ndBlock/src/login.html"
@@ -41,7 +41,7 @@ export const SlideProjects = (props) => {
         {
             name: "Mexflix",
             description: "Mexflix Movie App",
-            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/mexflix.jpg", 
+            picture: "https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/Components/Projects/mexflix2.jpg", 
             alt: "slide 4",
             repoLink: "https://github.com/Elibabah/Mexflix",
             demoLink: "https://elibabah.github.io/Mexflix/src/index.html"
