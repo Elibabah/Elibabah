@@ -14,6 +14,11 @@
     margin-bottom: 0%;
 }
 
+.d-block {
+    padding-right: 1%;
+    padding-left: 1%;
+}
+
 .d-block:hover {
     opacity: 0.9;
     transform: scale(0.99);
