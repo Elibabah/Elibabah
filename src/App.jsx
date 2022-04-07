@@ -10,11 +10,11 @@ import Footer from "./components/Footer/Footer"
 function App() {
   return (
     <div>
-        <NavBarBoot/>
+        {/*<NavBarBoot/>*/}
         <Home/>
         <About/>
         <Projects/>
-        <Contact/> 
+        {/*<Contact/>*/}
         <Footer/>
     </div>
     
